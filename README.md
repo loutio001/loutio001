@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs for 2 years<br>📚 I'm currently learning python<br>🎯 Goals: be able to create a game with python<br>🎲 Fun fact: top 40 in quadruple on jartex bedwars</p>
+<p align="left">✨ Creating bugs for 2 years<br>📚 I'm currently learning python<br>🎯 Goals: be able to create a game with python<br>🎲 Fun fact: top 25 in quadruple on jartex bedwars</p>
 
 ###
 
